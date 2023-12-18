@@ -8,6 +8,8 @@
 *******************************************************************************/
 
 #include <cmath>
+#include <limits>
+#include <algorithm>
 #include "clipper2/clipper.h"
 #include "clipper2/clipper.rectclip.h"
 
