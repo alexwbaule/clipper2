@@ -17,6 +17,7 @@ constexpr auto CLIPPER2_VERSION = "1.0.6";
 #include <stdexcept>
 #include <vector>
 #include <functional>
+#include <cstdint>
 #include "clipper.core.h"
 
 namespace Clipper2Lib {
